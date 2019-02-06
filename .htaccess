@@ -1,0 +1,5 @@
+
+    RewriteEngine On
+    RewriteCond %{REQUEST} !^web
+    RewriteRule ^(.*)$ web/$1 [L]
+
