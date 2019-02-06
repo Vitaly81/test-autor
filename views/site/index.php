@@ -14,9 +14,9 @@ $this->params['breadcrumbs'][] = $this->title;
         <div class="slider">
             <div class="slider-wrapper theme-default">
                 <div id="slider" class="nivoSlider">
-                    <img src="/web/images/banner1.jpg" data-thumb="images/1.jpg" alt="" />
-                    <img src="/web/images/banner2.jpg" data-thumb="images/2.jpg" alt="" />
-                    <img src="/web/images/banner3.jpg" data-thumb="images/3.jpg" alt="" />
+                    <img src="/web/images/banner1.jpg" data-thumb="/web/images/1.jpg" alt="" />
+                    <img src="/web/images/banner2.jpg" data-thumb="/web/images/2.jpg" alt="" />
+                    <img src="/web/images/banner3.jpg" data-thumb="/web/images/3.jpg" alt="" />
                 </div>
             </div>
         </div>
